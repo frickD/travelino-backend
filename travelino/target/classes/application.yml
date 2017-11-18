@@ -1,0 +1,5 @@
+server:
+    port: 8865
+cnj:
+    info:
+        message: Server verwendet Konfiguration aus Codebase!

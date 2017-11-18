@@ -1,0 +1,68 @@
+# All Responses
+---
+noAppointments: 
+  - Heute hast du keine weiteren Kalendereinträge. Feierabend!
+  - Für heute stehen in deinem Kalender keine Einträge mehr. Feierabend!
+  - Du hast heute keine Termine, genieße deinen freien Tag.
+  - Du musst heute zu keinem Termin erscheinen, einen schönen freien Tag wünsche ich dir.
+  - Ich konnte keine Termine in deiner C4C für dich finden. Genieße den terminfreien Tag!
+nextAppointment:
+  - Dein nächster Termin $name beginnt um $time Uhr.
+  - Um $time Uhr beginnt dein nächster Termin $name.
+  - $name ist dein nächster Termin und beginnt um $time.
+minutesTimeleftAppointment:
+  - In $minutes Minuten steht dein nächster Termin $name an.
+  - Du hast noch $minutes Minuten bis zu deinem nächsten Termin $name.
+  - Dein nächster Termin $name findet in $minutes Minuten statt.
+hoursTimeleftAppointment:
+  - Bis zu deinem nächsten Termin $name hast du noch $hours Stunden und $minutes Minuten.
+  - Es bleiben dir noch $hours Stunden und $minutes Minuten bis zu deinem nächsten Termin $name.
+  - $hours Stunden und $minutes Minuten hast du bis zu deinem nächsten Termin $name.
+nextLocationAppointment:
+  - Der Ort für deinen nächsten Termin $name lautet $location.
+  - In $location findet dein nächster Termin $name statt.
+  - Deiner nächster Termin $name wird in $location statt finden.
+noNextLocationAppointment:
+  - Dein nächster Termin $name hat leider keine Ortsangabe in der C4C.
+  - Leider ist bei deinem nächsten Termin $name kein Ort angegeben.
+  - Für deinen nächsten Termin $name ist leider kein Ort angegeben. 
+oneTodayAppointment:
+  - Du hast heute nur einen Termin und zwar $fristAppointment.
+  - In deinem Kalender ist heute nur ein Termin eingetragen und zwar $fristAppointment.
+  - Ich konnte nur einen Termin für heute finden und zwar $fristAppointment.
+twoTodayAppointment:
+  - Du hast heute nur zwei Termine und zwar $fristAppointment und $secondAppointment.
+  - In deinem Kalender sind heute nur zwei Termine eingetragen und zwar $fristAppointment sowie $secondAppointment.
+  - Ich konnte nur zwei Termin für heute finden und zwar $fristAppointment und $secondAppointment.
+fristAppointment:
+  - Okay, laut deinem Kalender hast du heute insgesamt $counter Termine. Dein erster Termin ist $appointment.
+  - Alles klar, in deinem Kalender habe ich insgesamt $counter Termine für heute gefunden. Der erste Termin ist $appointment.
+  - Du hast heute insgesamt $counter Termine. Der erste Termin ist $appointment.
+nextTodayAppointment:
+  - Als nächstes kommt $appointment.
+  - Der nächste Termin ist $appointment.
+  - danach $appointment.
+  - als nächstes $appointment.
+  - gefolgt vom nächsten Termin $appointment.
+  - und anschließend $appointment.
+  - $appointment ist der nächste Termin.
+lastAppointment:
+  - Der letzte Termin für den heutigen Tag ist $appointment.
+  - Und der letzte Termin für heute ist $appointment.
+  - und als letztes $appointment.
+noCustomer:
+  - Leider hast du keine Kunden in $city.
+  - Ich konnte leider keine Kunden finden, die sich in $city befinden.
+  - Es gibt keine leider keinen Kunden in $city.
+oneCustomer:
+  - In $city habe ich einen Kunden gefunden $customer.
+  - Ich habe insgesamt nur einen Kunden in $city gefunden und zwar $customer.
+  - $customer ist der einzige Kunde, der sich in $city befindet.
+twoCustomer:
+  - Ich habe insgesamt zwei Kunden gefunden in $city und zwar §customer1 und den Kunden $customer2.
+  - Der Kunde §customer1 und der Kunde $customer2 befinden sich beide in $city.
+  - In der Stadt $city habe ich zwei Kunden gefunden und zwar den Kunden §customer1 sowie den Kunden $customer2.
+listCustomer:
+  - Ich habe insgesamt $counter Kunden in $city gefunden. Hier sind die ersten zehn Kunden.
+  - Insgesamt hast du $counter Kunden in $city. Das sind die ersten zehn Kunden.
+  - Das sind die ersten zehn Kunden von insgesamt $counter Kunden, die sich in $city befinden.

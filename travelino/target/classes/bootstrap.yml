@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: hm-dfrick-cnj
+---
+spring:
+    profiles: dev, cloud
+    cloud:
+        config:
+            uri: https://hm-dfrick-config-server.cfapps.io
