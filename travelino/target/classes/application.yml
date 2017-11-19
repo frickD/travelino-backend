@@ -1,5 +1,5 @@
 server:
-    port: 8865
+    port: 8866
 cnj:
     info:
         message: Server verwendet Konfiguration aus Codebase!
